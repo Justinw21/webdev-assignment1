@@ -4,4 +4,4 @@ Assignment 1 : Zoo
 
 Justin Wong
 
-Live Link : 
+Live Link : https://justinw21.github.io/webdev-assignment1/
